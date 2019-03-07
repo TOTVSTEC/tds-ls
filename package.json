@@ -1,0 +1,14 @@
+{
+  "name": "tds-ls",
+  "version": "1.0.0",
+  "description": "Totvs Language Server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TOTVSTEC/tds-ls.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TOTVS S.A.",
+  "license": "MIT"
+}
